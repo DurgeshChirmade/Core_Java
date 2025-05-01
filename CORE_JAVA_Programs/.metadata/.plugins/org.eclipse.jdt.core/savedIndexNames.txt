@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+E:\CDAC\PGDAC\KNOW-IT_Pune\Daily_Lab\Core_Java\CORE_JAVA_Programs\.metadata\.plugins\org.eclipse.jdt.core
+2006805845.index
+1595694945.index
+1865797976.index
