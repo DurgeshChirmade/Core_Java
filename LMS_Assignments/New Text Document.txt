@@ -1,0 +1,83 @@
+accept a given string is palindrome or not
+
+accept 2 numbers from user 2 number should be greater than 2nd number, if not then return,if this valid then find prime number between range 13,97.
+
+DSA
+15/04/2025
+------------
+delete operations in linked list ✅
+update operation on linked list ✅
+A-Z add in linked list 
+reverse linked list ✅
+print reverse linked list without doing list reverse ✅
+selection sort ✅
+linked list sort in ascending and descending order 
+A-Z add using n/2(26/2) time complexity in linked list ✅
+
+16/04/2025
+-----------
+dynamic stack ✅
+A-Z add usng dynamic stack ✅
+dynamic queue ✅
+Insertion sort ✅
+
+17/04/2025
+--------------
+remaining work:-
+=================
+Doubly operations --> delete first,last,value,position ✅
+circular singly Linked List ✅
+circular doubly linked list 
+
+18/04/2025
+------------
+circular queue --> using array ✅
+
+19/04/2025
+------------
+c2stack --> using array ✅
+c2stack --> reverse string store it in 1 stack ✅
+quick sort ✅
+infix to prefix conversion
+
+extra work-->20/04/2025
+-----------
+Merge sort ✅
+Liner search ✅
+Ordered Linear Search ✅
+Binary Search ✅
+Trees Codes
+
+21/04/2025
+-----------
+Binary Search tree ✅
+merge sort ✅
+degree of node
+
+22/04/2025
+-----------
+delete node from Binary Search Tree ✅
+
+23/04/2025
+------------
+undirected graph -- DFS ✅
+undirected graph -- BFS ✅
+Directed Adjacency Matrix 
+merge 2 linked list
+
+24/04/2025
+------------
+Hashing using array --> delete operation remaining
+
+=======================================================
+Web Programming
+++++++++++++++++++++++++
+25/04/2025
+------------
+
+
+
+-----------
+30/04/2025
+-----------
+upload mysql assignment,core java assignment,data structure assignment on github --> today
